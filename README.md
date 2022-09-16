@@ -2,9 +2,9 @@
 
 - 💻 Desenvolvedor Web FullStack.
      
-- 📔 Estudando Desenvolvimento FullStack (Digital House)
+- 📔 Desenvolvimento FullStack 
 - 💬 Em processo de desenvolvimento profissional e pessoal!
-- ⚡ Objetivos e metas: Adquirir total conhecimento sobre desenvolvimento FullStack, me formar em analise e desenvolvimento de sistemas criar softwares para empresas e estar em equipes de desenvolvimento, estudar Engenharia de software no Canadá e morar lá a trabalho através da tecnologia.
+- ⚡ Objetivos e metas: Adquirir total conhecimento sobre desenvolvimento FullStack, me formar em analise e desenvolvimento de sistemas criar softwares para empresas e estar em equipes de desenvolvimento, Me graduar em Engenharia de software no Canadá e morar lá a trabalho através da tecnologia.
 
 ##
 
