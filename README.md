@@ -3,6 +3,7 @@
 - 💻 Desenvolvedor FrontEnd .
 - 💬 Em processo de desenvolvimento profissional e pessoal!
 - ⚡ Objetivos e metas: Adquirir total conhecimento sobre desenvolvimento FullStack, me formar em analise e desenvolvimento de sistemas criar softwares para empresas e estar em equipes de desenvolvimento, Me graduar em Engenharia de software no Canadá e morar lá a trabalho através da tecnologia.
+- Atualmente na carreira estou como desenvolvedor trainne Front End na BIYÔ E-commerce de cosmeticos veganos(https://mybiyo.com/)
 
 ##
 
