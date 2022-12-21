@@ -3,7 +3,7 @@
 - 💻 Web developer FrontEnd .
 - 💬 In the process of personal and professional development.
 - ⚡ Objectives and goals: Acquire full knowledge about FullStack development, graduate in systems analysis and development, create software for companies and be on        development teams, Graduate in software engineering in Canada and live there to work through technology.
-- Currently in my career I am a trainee Front End developer at BIYÔ E-commerce of vegan cosmetics(https://mybiyo.com/)
+- Currently in my career I am a Front End developer at BIYO E-commerce of vegan cosmetics(https://mybiyo.com/)
 
 ##
 
