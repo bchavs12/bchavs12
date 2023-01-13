@@ -6,15 +6,6 @@
 - Currently in my career I am a Front End developer at BIYO E-commerce of vegan cosmetics(https://mybiyo.com/)
 
 ##
-
-<div align="center">
-  <a href="https://github.com/bchavs12">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bchavs12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchavs12&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
 <div align="center"> 
   <a href="https://www.linkedin.com/in/bchavs12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
