@@ -1,6 +1,6 @@
 <h1> 😄 Eaeee 👋</h1>
 
-- 💻 Sou desenvolvedor FrontEnd! 😎❤.
+- 💻 Desenvolvedor FrontEnd! 😎❤.
 - 💬 Em processo de desenvolvimento profissional e profissional.
 
 ##
