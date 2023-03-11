@@ -1,10 +1,7 @@
-<h1> 😄 Hello, I'am Bruno 👋</h1>
+<h1> 😄 Eaeee 👋</h1>
 
-- 💻 Web developer FrontEnd .
-- 💬 In the process of personal and professional development.
-- ⚡ Objectives and goals: Acquire full knowledge about FullStack development, graduate in systems analysis and development, create software for companies and be on        development teams, Graduate in software engineering in Canada and live there to work through technology.
-- Currently in my career I am a Front End developer at BIYO E-commerce of vegan cosmetics(https://mybiyo.com/)
-- I work as a free lancer in the Web Front-End development area, send me a direct or contact me through social networks through the profile
+- 💻 Sou desenvolvedor FrontEnd! 😎❤.
+- 💬 Em processo de desenvolvimento profissional e profissional.
 
 ##
 <div align="center"> 
