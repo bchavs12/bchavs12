@@ -1,7 +1,7 @@
-<h1> 😄 Eaeee 👋</h1>
+<h1> 😄 Hey 👋</h1>
 
-- 💻 Desenvolvedor FrontEnd! 😎❤.
-- 💬 Em processo de desenvolvimento profissional e profissional.
+- 💻 Software development! 😎❤.
+- 💬 In the process of personal and professional development.
 
 ##
 <div align="center"> 
