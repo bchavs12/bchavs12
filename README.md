@@ -1,6 +1,6 @@
 <h1> 😄 Hey 👋</h1>
 
-- 💻 Software development! 😎❤.
+- 💻 Future software engineer! 😎❤.
 - 💬 Enthusiastic about technology and crazy ideas.
 
 ##
