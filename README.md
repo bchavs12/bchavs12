@@ -1,7 +1,7 @@
 <h1> 😄 Hey 👋</h1>
 
 - 💻 Software development! 😎❤.
-- 💬 In the process of personal and professional development.
+- 💬 Enthusiastic about technology and crazy ideas.
 
 ##
 <div align="center"> 
