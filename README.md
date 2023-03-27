@@ -1,7 +1,7 @@
 <h1> 😄 Hey guys!👋</h1>
 
 - 💻 Future software engineer! 😎❤.
-- 💬 Enthusiastic about technology and crazy ideas.
+- 💬 Enthusiastic about technology and general knowledges.
 
 ##
 <div align="center"> 
