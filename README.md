@@ -1,4 +1,4 @@
-<h1> 😄 Hey 👋</h1>
+<h1> 😄 What's up visitors 👋</h1>
 
 - 💻 Future software engineer! 😎❤.
 - 💬 Enthusiastic about technology and crazy ideas.
