@@ -1,6 +1,6 @@
-<h1> 😄 Hey guys!👋</h1>
+<h1>Hello!, I'm Bruno! 👋</h1>
 
-- 💻 Future software engineer! 😎❤.
+- 🖥️ Web developer!
 - 💬 Enthusiastic about technology and general knowledges.
 
 ##
