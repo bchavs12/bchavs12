@@ -1,6 +1,8 @@
-<h1>Hello!, I'm Bruno! 👋</h1>
+<h1>Hi there!, I'm Bruno! 👋</h1>
 
-- 🖥️ Web developer!
+- 🖥️ Professional Front-end developer!
+- 📖 Bachelor Degree in Computer Systems Analysis.
+- 🏆 BootCamp in Web developer FullStack from Certified tech developer - DigitalHouse Brasil
 - 💬 Enthusiastic about technology and general knowledges.
 
 ##
