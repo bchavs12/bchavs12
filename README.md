@@ -1,6 +1,6 @@
 <h1>Hi there!, I'm Bruno! 👋</h1>
 
-- 🖥️ Professional Full-Stack developer!
+- 🖥️ Professional Front-End developer!
 - 📖 Bachelor Degree in Computer Systems Analysis.
 - 🏆 BootCamp in Web developer FullStack from Certified tech developer - DigitalHouse Brasil
 - 💬 Enthusiastic about technology and general knowledges.
