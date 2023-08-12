@@ -1,4 +1,4 @@
-<h1>Hi there!, I'm Bruno! 👋</h1>
+<h1>Hi there!, I'm Bruno. 👋</h1>
 
 - 🖥️ Professional Front-End developer!
 - 📖 Bachelor Degree in Computer Systems Analysis.
