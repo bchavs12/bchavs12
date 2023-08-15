@@ -2,7 +2,7 @@
 
 - 🖥️ Professional Front-End developer!
 - 📖 Bachelor Degree in Computer Systems Analysis.
-- 🏆 BootCamp in Web developer FullStack from Certified tech developer - DigitalHouse Brasil
+- 🏆 BootCamp in Web developer FullStack from Certified tech developer - DigitalHouse Brazil
 - 💬 Enthusiastic about technology and general knowledges.
 
 ##
