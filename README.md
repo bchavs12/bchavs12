@@ -1,12 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&pause=1000&multiline=true&repeat=false&width=435&lines=Hi+there%2C+Welcome+to+my+profile.+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&pause=5000&width=435&lines=Hi+there%2C+I'm+Bruno!%F0%9F%98%8A;Welcome+to+my+profile)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=500&color=B9D4F7&multiline=true&repeat=false&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Professional+Front-End+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=500&color=B9D4F7&repeat=false&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Professional+Front-End+developer!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=500&color=B9D4F7&multiline=true&repeat=false&width=435&lines=%F0%9F%93%96+Bachelor+Degree+in+Computer+Systems+Analysis.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=500&color=B9D4F7&width=435&lines=%F0%9F%93%9A+Bachelor+Degree+in+Computer+Systems+Analysis.;%F0%9F%93%9A+BootCamp+in+WebDevelopment+FullStack)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=500&color=B9D4F7&multiline=true&repeat=false&width=435&lines=%F0%9F%93%9A+BootCamp+in+WebDevelopment+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=500&color=B9D4F7&repeat=false&width=435&lines=%F0%9F%A7%A0Passionate+about+technology+and+knowledge)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=500&color=B9D4F7&multiline=true&repeat=false&width=435&lines=%F0%9F%92%AC+Enthusiastic+about+technology+and+general+knowledges.)](https://git.io/typing-svg)
 </li>
 
 ##
