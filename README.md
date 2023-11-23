@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate </h3>
-<h3 align="center">about tecnology, communication and management</h3>
+<h3 align="center"> tecnology, communication and management</h3>
 
 
 
