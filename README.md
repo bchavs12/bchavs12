@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center"> Passionate about </h3>
-<h3 align="center">Technology && Product Management</h3>
+<h3 align="center">Product Management && Technology </h3>
 
 
 
