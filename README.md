@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web development projects**
 
-- 🎓 bachelor's degree in analysis and systems development
+- 🎓 Bachelor's degree in analysis and systems development
 
 - 🌱 I’m currently learning **Back End**
 
