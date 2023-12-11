@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web development projects**
 
-- 🎓 Bachelor's degree in analysis and systems development
+- 🎓 Bachelor's degree in **Analysis and Systems Development**
 
 - 🌱 I’m currently learning **Back End**
 
