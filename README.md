@@ -8,7 +8,7 @@
 
 - 🎓 Bachelor's degree in **Analysis and Systems Development**
 
-- 🌱 I’m currently learning **Back End <?php>**
+- 🌱 I’m currently learning **Back End**
 
 - 💬 Ask me about **General knowledge**
 
