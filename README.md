@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center"> Passionate about </h3>
-<h3 align="center">Product Management & Web design </h3>
+<h3 align="center">Product Management & Web Development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
