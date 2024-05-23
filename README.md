@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
-- 🔭 I’m currently working as a **Web developer**, **self-employed**
+- 🔭 I’m currently working as a **Web developer**
 
-- 🎓 Bachelor's degree in **Analysis and Systems Development**
+- 🎓 Bachelor's degree in **Systems Analysis and Development**
 
 - 🎓 Certificate in **Professional Web development**
 
