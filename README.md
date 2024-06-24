@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
-- 🔭 I’m currently working as a **Web developer**
+- 🔭 I’m currently working on **E-commerce web system**
 
 - 🎓 Bachelor's degree in **Systems Analysis and Development**
 
 - 🎓 Certificate in **Professional Web development**
 
-- 🌱 I'm currently studying to be **Specialized Front-end**
+- 🌱 I'm currently studying **Data Structure**
 
 - 💬 Ask me about **General knowledge**
 
