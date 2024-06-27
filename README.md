@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center"> I'm always curious and passionate about how things in the world work.</h3>
+<h3 align="center"> I'm always curious and passionate about how things works.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
