@@ -9,7 +9,7 @@
 
 🎓 **Bootcamp in Web development**: <a href="WebDevCertificate.pdf" download> Certificate </a>
 
-💬 **Ask me about**: General knowledge;
+💬 **Professional Experience**: Front-end developer at **@BIYOCLOSETS**;
 
 📫 **Let's get in touch**: chavesbruno699@gmail.com
 
