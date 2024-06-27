@@ -7,7 +7,7 @@
 
 🎓 **Bachelor's degree**: Systems Analysis and Development;
 
-🎓 **Bootcamp in Web development**: <a href="WebbDevCertificate" download> Dowload Certificate </a>
+🎓 **Bootcamp in Web development**: <a href="WebDevCertificate.pdf" download> Certificate </a>
 
 💬 **Ask me about**: General knowledge;
 
