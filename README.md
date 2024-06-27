@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
-- 📚 **Self taught**: Current learning PHP to build web services with Laravel/Inertia/Eloquent etc...
+📚 **Self taught**: Current learning PHP to build web services with Laravel/Inertia/Eloquent etc...
 
-- 🎓 **Bachelor's degree**: Systems Analysis and Development;
+🎓 **Bachelor's degree**: Systems Analysis and Development;
 
-- 🎓 **Bootcamp in Web development**: <a href="certificado CTD WebDeveloper.pdf" download> Dowload Certificate </a>
+🎓 **Bootcamp in Web development**: <a href="WebbDevCertificate" download> Dowload Certificate </a>
 
-- 💬 **Ask me about**: General knowledge;
+💬 **Ask me about**: General knowledge;
 
-- 📫 **Let's get in touch**: chavesbruno699@gmail.com
+📫 **Let's get in touch**: chavesbruno699@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
