@@ -9,6 +9,8 @@
 
 🎓 **Bootcamp in Web development**: <a href="WebDevCertificate.pdf" download> Certificate </a>
 
+🔨 **The last project I made**: <a href="https://carhub-dh.vercel.app/"> CardHub - RentalCar (PT-BR) </a>
+
 💬 **Professional Experience**: Front-end developer at **@BIYOCLOSETS**;
 
 📫 **Let's get in touch**: chavesbruno699@gmail.com
