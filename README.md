@@ -5,7 +5,7 @@
 
 📚 **Self taught**: Current learning PHP to build web services with Laravel/Inertia/Eloquent etc...
 
-🎓 **Bachelor's degree**: Systems Analysis and Development;
+🎓 **Bachelor's degree**: Computer Systems Analysis;
 
 🎓 **Bootcamp in Web development**: <a href="WebDevCertificate.pdf" download> Certificate </a>
 
