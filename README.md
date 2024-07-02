@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
-📚 **Self taught**: Current learning PHP to build web services with Laravel/Inertia/Eloquent etc...
+📚 **Self taught**: Current learning Data Structures & Algorithms
 
 🎓 **Bachelor's degree**: Computer Systems Analysis;
 
-🎓 **Bootcamp in Web development**: <a href="WebDevCertificate.pdf" download> Certificate </a>
+🎓 **Bootcamp in Web development**: <a href="WebDevCertificate.pdf"> Certificate </a>
 
 🔨 **The last project I made**: <a href="https://carhub-dh.vercel.app/" target="_blank" > CardHub - RentalCar (PT-BR) </a>
 
-💬 **Professional Experience**: Front-end developer at **@BIYOCLOSETS**;
+🏆 **Professional Experience**: 2 years of Front-end developer at **@BIYOCLOSETS**;
+
+🧾 **Professional Resume**: <a href="English_Resume.pdf"> English_Resume </a> , <a href="Portuguese_Resume.pdf"> Portuguese_Resume </a>
 
 📫 **Let's get in touch**: chavesbruno699@gmail.com
 
