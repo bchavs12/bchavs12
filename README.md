@@ -7,7 +7,7 @@
 
 🎓 **Bachelor's degree**: Computer Systems Analysis;
 
-🎓 **Bootcamp in FullStack Web development**: <a href="WebDevCertificate.pdf"> Certificate </a>
+🎓 **Professional Web developer Certificate**: <a href="WebDevCertificate.pdf"> Certificate </a>
 
 🔨 **The last project I made**: <a href="https://carhub-dh.vercel.app/" target="_blank" > CardHub - RentalCar (PT-BR) </a>
 
