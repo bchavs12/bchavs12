@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
+🔨 **About me**: Working on a portfolio and have experience with assurance systems and legacy system integrations.
+
 📚 **Self taught**: Current learning: Back-end | APIs | HTTP_REQUEST | CLIENT_SERVER
 
 🎓 **Bachelor's degree**: Computer Systems Analysis;
