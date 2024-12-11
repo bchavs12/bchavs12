@@ -1,19 +1,20 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Curious and eager for knowledge.</h3>
+<h3 align="center">Take easy, take slow where ever you wanna go.</h3>
+<p align="center">Working on my personal development</p>
+<p align="center">&</p>
+<p align="center">having a professional experience with assurance systems and legacy system integrations.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
-🔨 **About me**: Working on a portfolio and have experience with assurance systems and legacy system integrations.
-
-📚 **Self taught**: Current learning: Back-end | APIs | HTTP_REQUEST | CLIENT_SERVER
+📚 **Self taught**: Current learning: Back-end,  Effective communication(English, French)
 
 🎓 **Bachelor's degree**: Computer Systems Analysis;
 
-🎓 **Professional Web developer Certificate**: <a href="WebDevCertificate.pdf"> Certificate </a>
+🎓 **Professional Web developer Certified**: <a href="WebDevCertificate.pdf"> Certificate </a>
 
 🔨 **The last project I made**: <a href="https://carhub-dh.vercel.app/" target="_blank" > CardHub - RentalCar (PT-BR) </a>
 
-🏆 **Professional Experience**: Freelancer WebDev, FrontEnd, fullStack;
+🏆 **Professional Experience**: Front-end freelancer, Fullstack experience with assurance systems and legacy system integrations.
 
 🧾 **Professional Resume**: <a href="English_Resume.pdf"> English_Resume </a> , <a href="Portuguese_Resume.pdf"> Portuguese_Resume </a>
 
