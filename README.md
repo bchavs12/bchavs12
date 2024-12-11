@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
-📚 **Self taught**: Current learning: Back-end,  Effective communication(English, French)
+📚 **Self taught**: Current learning: Back-end and effective communication through English and French
 
 🎓 **Bachelor's degree**: Computer Systems Analysis;
 
