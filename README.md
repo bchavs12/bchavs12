@@ -1,8 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Take easy, take slow where ever you wanna go.</h3>
-<p align="center">Working on my personal development</p>
-<p align="center">&</p>
-<p align="center">having a professional experience with assurance systems and legacy system integrations.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
