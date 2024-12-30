@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
-📚 **Self taught**: Current learning: Back-end(Java codeBase 1.8 and 17);
+📚 **Self taught**: Current learning: Back-end(Java SE 1.8 and 17) - Database connections such as Postgres, JBDC, MySQL, Hibernate;
 
 🎓 **Bachelor's degree**: Computer Systems Analysis;
 
