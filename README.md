@@ -11,7 +11,7 @@
 
 🔨 **The last project I made**: <a href="https://carhub-dh.vercel.app/" target="_blank" > CardHub - RentalCar (PT-BR) </a>
 
-🏆 **Professional Experience**: Front-end freelancer, Fullstack experience with assurance systems and legacy system integrations.
+🏆 **Professional Experience**: Front-end freelancer, experience with fullStack assurance company system modern and legacy system integration.
 
 🧾 **Professional Resume**: <a href="English_Resume.pdf"> English_Resume </a> , <a href="Portuguese_Resume.pdf"> Portuguese_Resume </a>
 
