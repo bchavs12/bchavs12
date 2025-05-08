@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">My favorite proverb: is Where there's a will, there's a way</h3>
-<p align="center">if someone really wants to do something, </p>
-<p align="center">they will find a way to do it, even if there are things that make it hard to do</p>
+<h3 align="center">🌱 Where there's a will, there's a way</h3>
+<p align="center">If someone really wants to do or achieve something, </p>
+<p align="center">they will find a way to do it, even if it's difficult</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchavs12&label=Profile%20views&color=0e75b6&style=flat" alt="bchavs12" /> </p>
 
