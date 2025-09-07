@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">🌱 Where there's a will, there's a way</h3>
 <p align="center">If someone really wants to do or achieve something, </p>
 <p align="center">they will find a way to do it, even if it's difficult</p>
 
